@@ -1,3 +1,3 @@
-[submodule "PublisherSubscriber"]
-	path = PublisherSubscriber
-	url = https://github.com/Johns-Hopkins-URC-Mars-Rover/PublisherSubscriber.git
+[submodule "science_box/DRV8825Controller"]
+	path = science_box/DRV8825Controller
+	url = https://github.com/Johns-Hopkins-URC-Mars-Rover/DRV8825Controller.git
